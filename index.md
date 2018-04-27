@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Associate Professor
-subtitle: Web Information Systems, TU Delft
+title:  Software Lab UCD
+subtitle: Complex and large scale software systems
 ---
 
 ## News
