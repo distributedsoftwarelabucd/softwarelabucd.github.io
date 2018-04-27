@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://sofwtarelabucd.github.io"
+url: "http://softwarelabucd.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -30,6 +30,10 @@ navbar-links:
   Home: "home"
   People: "people"
   Research: "research"
+   - Mutation Testing: ""
+   - Urban Traffic Simulations: ""
+   - Software Product Lines: "https://github.com/aventresque/EvolvingFMs"
+   - Megalithic Art Analysis Project: "http://maap.ucd.ie"
   Datasets: "datasets"
   Publications: "publications"
  
@@ -38,7 +42,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Software Leb UCD
+  name: Software Lab UCD
   email: "softwarelabucd[at]gmail.com"
   github: xx    # eg. daattali
   twitter: xx   # eg. daattali
