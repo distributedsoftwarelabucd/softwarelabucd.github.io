@@ -1,8 +1,4 @@
----
-layout: page
-title:  Software Lab UCD
-subtitle: Complex and large scale software systems
----
+### *Research on Complex and Large Scale Sofware Systems*
 
 ## News
 
